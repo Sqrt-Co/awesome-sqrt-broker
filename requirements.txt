@@ -1,0 +1,10 @@
+uvicorn
+fastapi
+pandas
+numpy
+PyJWT
+requests
+pandas
+numpy
+setuptools
+python-dotenv
